@@ -9,7 +9,9 @@ Analyze Content Categories: Identify and analyze the most popular content catego
 
 **Data Set Details and Relationships**
 Document all data sets comprehensively and create a data model that defines relationships between these data sets. This structured approach ensures efficient organization and utilization of data for analysis and decision-making.
-[file here]
+
+[file here](https://github.com/Susmita1703/Data-Analytics-Project/blob/main/Data%20model.pdf)
+
 
 **Data Visualization and Reporting**
 Create Visualizations: Use Power BI to create visual representations of the data.

@@ -17,4 +17,6 @@ Present Findings: Share insights and recommendations through presentations.
 Document Processes: Provide detailed documentation of all procedures and findings.
 file of my presentation 
 
+
 This project leverages my skills as a data analyst to provide critical insights and recommendations for effective data management and IPO preparation. My expertise in data extraction, integration, analysis, and visualization ensures that the client can handle their data challenges and achieve a successful IPO. This documentation highlights my capabilities and the methodologies I employ, demonstrating my proficiency in data analytics to potential recruiters.
+

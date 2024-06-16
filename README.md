@@ -10,14 +10,14 @@ Analyze Content Categories: Identify and analyze the most popular content catego
 **Data Set Details and Relationships**
 Document all data sets comprehensively and create a data model that defines relationships between these data sets. This structured approach ensures efficient organization and utilization of data for analysis and decision-making.
 
-[file here](https://github.com/Susmita1703/Data-Analytics-Project/blob/main/Data%20model.pdf)
+[Data set details](https://github.com/Susmita1703/Data-Analytics-Project/blob/main/Data%20model.pdf)
 
 
 **Data Visualization and Reporting**
 Create Visualizations: Use Power BI to create visual representations of the data.
 Present Findings: Share insights and recommendations through presentations.
 Document Processes: Provide detailed documentation of all procedures and findings.
-file of my presentation 
+[file of my presentation](https://github.com/Susmita1703/Data-Analytics-Project/blob/main/Recomendations%20and%20description%20of%20analysis%20of%20of%20social%20bzz.pdf)
 
 
 This project leverages my skills as a data analyst to provide critical insights and recommendations for effective data management and IPO preparation. My expertise in data extraction, integration, analysis, and visualization ensures that the client can handle their data challenges and achieve a successful IPO. This documentation highlights my capabilities and the methodologies I employ, demonstrating my proficiency in data analytics to potential recruiters.

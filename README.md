@@ -1,4 +1,4 @@
-# Data-Analytics-Project
+# Data-Analytics-Project and presentation
 
 ## Introduction
 
@@ -8,20 +8,23 @@ Introduction: This project focuses on using data analytics to help a social medi
 
 ## Objectives🎯
 
-Data Center Audit: Perform an on-site audit to evaluate the existing data management practices and infrastructure.
+**Data Center Audit**: Perform an on-site audit to evaluate the existing data management practices and infrastructure.
 
-Analyze Content Categories: Identify and analyze the most popular content categories. This information will help the company leverage popular content for growth and pinpoint weak areas for improvement, preventing negative impacts in the future.
+**Analyze Content Categories**: Identify and analyze the most popular content categories. This information will help the company leverage popular content for growth and pinpoint weak areas for improvement, preventing negative impacts in the future.
 
-**Data Set Details and Relationships**
+## Data Set Details and Relationships
 Document all data sets comprehensively and create a data model that defines relationships between these data sets. This structured approach ensures efficient organization and utilization of data for analysis and decision-making.
 
 [Data set details](https://github.com/Susmita1703/Data-Analytics-Project/blob/main/Data%20model.pdf)
 
 
-**Data Visualization and Reporting**
-Create Visualizations: Use Power BI to create visual representations of the data.
-Present Findings: Share insights and recommendations through presentations.
-Document Processes: Provide detailed documentation of all procedures and findings.
+## Data Visualization and Reporting
+
+**Create Visualizations**: Use Power BI to create visual representations of the data.
+
+**Present Findings 📌**: Share insights and recommendations through presentations.
+
+**Document Processes**: Provide detailed documentation of all procedures and findings.
 [file of my presentation](https://github.com/Susmita1703/Data-Analytics-Project/blob/main/Recomendations%20and%20description%20of%20analysis%20of%20of%20social%20bzz.pdf)
 
 

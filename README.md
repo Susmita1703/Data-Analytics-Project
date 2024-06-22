@@ -1,10 +1,15 @@
 # Data-Analytics-Project
 
-**Introduction**
-This project involves comprehensive data analytics tasks to support a social media and content creation platform in managing their rapid growth and preparing for an Initial Public Offering (IPO). As a data analyst, my role is to conduct a thorough audit of the company’s big data practices, provide actionable insights, and ensure readiness for the IPO.
+## Introduction
 
-**Objectives**
+Introduction: This project focuses on using data analytics to help a social media and content creation platform manage its rapid growth and prepare for an Initial Public Offering (IPO). As a data analyst, my role includes auditing the company's big data practices, providing actionable insights, and ensuring IPO readiness. I use Power BI to analyze data and deliver these insights effectively.
+
+
+
+## Objectives🎯
+
 Data Center Audit: Perform an on-site audit to evaluate the existing data management practices and infrastructure.
+
 Analyze Content Categories: Identify and analyze the most popular content categories. This information will help the company leverage popular content for growth and pinpoint weak areas for improvement, preventing negative impacts in the future.
 
 **Data Set Details and Relationships**
